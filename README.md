@@ -1,19 +1,19 @@
 # User Stories
 
-- This guided project will help you understand how to apply user stories in your project
+- This guided project will help you understand how to apply user stories in your project.
 
 # Description
 
-- Often, a developer may be tempted to write a piece software based on how he thinks it would work best. 
-Writing user stories is valuable in documentating what you are building and helps you to consider the problem that your software solves for the user.
+- Often, a developer may be tempted to write a piece software based on how they think it would work best. 
+Writing user stories is valuable in documentating what you are building and helps you to consider the problem that your software solves for the user. The purpose being to keep the user in mind.
 
 # Purpose
 
-- While product owner can initiate the backlog of User Stories, each team member should be able to contribute to those stories. This exercise will help you to practice writing those user stories and help you to think from the user's perspective. 
+- While product owners can initiate the backlog of User Stories, each team member should be able to contribute to those stories. This exercise will help you to practice writing those user stories and help you to think from the user's perspective. 
 
 # Objectives
 
-- By the end of this guided project, you have demostrated the following
+- By the end of this guided project, you have will demostrated the following
   - Use the user story format to describe a product feature.
   - Break down a user interface into a complete set of user stories.
 
