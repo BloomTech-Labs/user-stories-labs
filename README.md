@@ -14,8 +14,8 @@ Writing user stories is valuable in documentating what you are building and help
 # Objectives
 
 - By the end of this guided project, you have demostrated the following
-  - You will have an understanding of what a User Story is.
-  - You will be able to write at least two User Stories given a sample product.
+  - Use the user story format to describe a product feature.
+  - Break down a user interface into a complete set of user stories.
 
 # Introduction
 
