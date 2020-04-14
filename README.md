@@ -20,6 +20,8 @@ Writing user stories is valuable in documentating what you are building and help
 # Introduction
 
 - **Step 1**: Login to this [Trello board](https://trello.com/invite/b/0LPDrTpV/8ee8334c12e079b130b607cedc53b3f3/twitter-writer) and create a new list (Give your team a name and use that to name the list)
+![twitter](https://i.imgur.com/TBjOns7.png)
+
 - **Step 2**: Break down the [Twitter Writer](https://docs.google.com/presentation/d/1Es9HsrOrt-xhayUA_sqj6oPrJ7rH5QpZJ53e1Y7gv5g/edit?usp=sharing) into User Stories under *your team's list*
 - **Step 3**: Assign yourself and your team to the card(s)
 
