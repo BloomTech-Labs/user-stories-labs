@@ -21,8 +21,9 @@ Writing user stories is valuable in documentating what you are building and help
   
 - **Step 1**: As a group, pick one slide from the [User Stories - Twitter Writer](https://docs.google.com/presentation/d/1Es9HsrOrt-xhayUA_sqj6oPrJ7rH5QpZJ53e1Y7gv5g/edit?usp=sharing)
 - **Step 2**: Pick one feature you want to implement
-- **Step 3**: Complete one or more User Stories on the [Trello board](https://trello.com/invite/b/0LPDrTpV/8ee8334c12e079b130b607cedc53b3f3/twitter-writer) under *Ready for Work*
-- **Step 4**: Assign yourself and your team to the card(s)
+- **Step 3**: Login to this [Trello board](https://trello.com/invite/b/0LPDrTpV/8ee8334c12e079b130b607cedc53b3f3/twitter-writer) and create a new list (Give your team a name and use that to name the list)
+- **Step 4**: Break down the Twitter Writter into User Stories under *your team's list*
+- **Step 5**: Assign yourself and your team to the card(s)
 
 # External resources
 [User Stories with Examples and Template](https://www.atlassian.com/agile/project-management/user-stories)
