@@ -19,9 +19,7 @@ Writing user stories is valuable in documentating what you are building and help
   
   # Introduction
   
-- **Step 1**. Pick on slide from the [User Stories - Twitter Writer](https://docs.google.com/presentation/d/1Es9HsrOrt-xhayUA_sqj6oPrJ7rH5QpZJ53e1Y7gv5g/edit?usp=sharing)
-- **Step 2**. Decide which user personna you want to focus on
-- **Step 3**. Decide the feature you want to implement
-- **Step 4**. State the need that feature will solve for that user
-- **Step 5**. Complete the User Story on the [Trello backlog](https://trello.com/invite/b/0LPDrTpV/8ee8334c12e079b130b607cedc53b3f3/twitter-writer)
-  
+- **Step 1**. As a group, pick one slide from the [User Stories - Twitter Writer](https://docs.google.com/presentation/d/1Es9HsrOrt-xhayUA_sqj6oPrJ7rH5QpZJ53e1Y7gv5g/edit?usp=sharing)
+- **Step 2**. Pick one feature you want to implement
+- **Step 3**. Complete one or more User Stories on the [Trello](https://trello.com/invite/b/0LPDrTpV/8ee8334c12e079b130b607cedc53b3f3/twitter-writer) under *Ready for Work*
+- **Step 4**: Assign yourself and your team to the card(s)
